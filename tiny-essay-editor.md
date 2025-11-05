@@ -4,7 +4,8 @@ project_type: tool
 last_worked: 2024-06-17
 next_action: "Review and potentially archive or resume tiny essay editor"
 repo: "https://github.com/bawakul/tiny-essay-editor"
-tags: [bawa-notes]---
+tags: [bawa-notes]
+---
 
 # Tiny Essay Editor - Notes
 
